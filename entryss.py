@@ -1,0 +1,1 @@
+print("hii this is entryss.py")
